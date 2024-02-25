@@ -1,0 +1,237 @@
+.frame-child187 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-steelblue-100);
+    width: 1920px;
+    height: 127px;
+  }
+  .image-22-icon11,
+  .image-23-icon11 {
+    position: absolute;
+    top: 8px;
+    left: 126px;
+    width: 111px;
+    height: 128px;
+    object-fit: cover;
+  }
+  .image-23-icon11 {
+    top: -100px;
+    left: 246px;
+    width: 115px;
+    height: 185px;
+  }
+  .image-243 {
+    top: 367px;
+    left: 1012px;
+    width: 115px;
+    height: 56px;
+  }
+  .home24,
+  .home25,
+  .image-243 {
+    position: absolute;
+  }
+  .home25 {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    text-transform: uppercase;
+    display: inline-block;
+  }
+  .home24 {
+    top: 46px;
+    left: 657px;
+    width: 114px;
+    height: 41px;
+    cursor: pointer;
+  }
+  .explore5,
+  .feed3 {
+    text-transform: uppercase;
+    display: inline-block;
+    height: 41px;
+  }
+  .explore5 {
+    position: absolute;
+    top: 45px;
+    left: calc(50% + 278px);
+    width: 145px;
+    cursor: pointer;
+  }
+  .feed3 {
+    top: 46px;
+    left: calc(50% - 111px);
+    width: 95px;
+    left: 553px;
+  }
+  .contact4,
+  .feed3,
+  .icon-cog10 {
+    position: absolute;
+    cursor: pointer;
+  }
+  .contact4 {
+    top: 45px;
+    left: calc(50% + 91px);
+    text-transform: uppercase;
+    display: inline-block;
+    width: 164px;
+    height: 41px;
+  }
+  .icon-cog10 {
+    height: 4.71%;
+    width: 3.6%;
+    top: 3.24%;
+    right: 5.68%;
+    bottom: 92.05%;
+    left: 94.72%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;  }
+  .image-71-icon4,
+  .image-72-icon2 {
+    position: absolute;
+    top: 1048px;
+    left: 565px;
+    border-radius: var(--br-10xl);
+    width: 29px;
+    height: 29px;
+    object-fit: cover;
+  }
+  .image-72-icon2 {
+    top: 723px;
+    left: 820px;
+  }
+  .vector-icon65,
+  .vector-icon66,
+  .vector-icon67 {
+    position: absolute;
+    width: 2.76%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vector-icon65 {
+    height: 5%;
+    top: 3.33%;
+    right: 11.79%;
+    bottom: 91.67%;
+    left: 89.45%;
+    cursor: pointer;
+  }
+  .vector-icon66,
+  .vector-icon67 {
+    height: 4.91%;
+    top: 3.52%;
+    right: 13.53%;
+    bottom: 91.57%;
+    left: 83.71%;
+  }
+  .vector-icon67 {
+    top: 3.43%;
+    right: 18.8%;
+    bottom: 91.67%;
+    left: 79.44%;
+    cursor: pointer;
+  }
+  .frame-child188,
+  .frame-child189 {
+    position: absolute;
+    top: 156px;
+    left: 1662px;
+    border-radius: 69px;
+    background-color: var(--color-forestgreen-100);
+    width: 137px;
+    height: 66px;
+  }
+  .frame-child189 {
+    top: 164px;
+    left: 1752px;
+    border-radius: 50%;
+    background-color: var(--color-white);
+    width: 37px;
+    height: 50px;
+  }
+  .frame-child190,
+  .frame-child193,
+  .frame-child194,
+  .frame-child195 {
+    position: absolute;
+    top: 189px;
+    left: 51px;
+    border-radius: var(--br-10xl);
+    background-color: var(--color-white);
+    box-shadow: 0-9px 9px rgba(0, 0, 0, 0.25);
+    width: 1187px;
+    height: 178px;
+  }
+  .frame-child193,
+  .frame-child194,
+  .frame-child195 {
+    top: 394px;
+  }
+  .frame-child194,
+  .frame-child195 {
+    top: 599px;
+  }
+  .frame-child195 {
+    top: 804px;
+    display: none;
+  }
+  .image-122-icon {
+    position: absolute;
+    top: 683.3px;
+    left: -13.6px;
+    width: 304.3px;
+    height: 304.3px;
+    object-fit: contain;
+  }
+  .off,
+  .on {
+    position: absolute;
+    top: 222px;
+    left: 1598px;
+    text-transform: uppercase;
+    color: var(--color-firebrick);
+    display: inline-block;
+    width: 81px;
+    height: 37px;
+  }
+  .on {
+    left: 1786px;
+    color: var(--color-forestgreen-100);
+  }
+  .frame-child196,
+  .image-126-icon {
+    position: absolute;
+    top: 334px;
+    left: 971px;
+    width: 626px;
+    height: 658px;
+    object-fit: cover;
+  }
+  .image-126-icon{
+    top: 274px;
+  }
+  .frame-child196 {
+    top: 178px;
+    left: 1909px;
+    width: 11px;
+    height: 305px;
+    object-fit: contain;
+    cursor: pointer;
+  }
+  .rectangle-parent4 {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-white);
+    height: 1080px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-12xl);
+    color: var(--color-black);
+    font-family: var(--font-lato);
+  }
+  
