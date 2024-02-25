@@ -6,7 +6,7 @@ like; User management, Data management, Chat Bot, Google Service use, etc.
  1) Use the command javac filename.java
  2) then use java filename
 
-For running HTML,CSS and Javascript files :
+*For running HTML,CSS and Javascript files :
 1) Open Github repository in VS code.
 2) Run files on VS code by right-clicking on code of html file and select open with live server.
    
